@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # chuxinzaoqi
 
 > A Vue.js project
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# chuxin
+移动端早起打卡，页面优化
+>>>>>>> 3080293c1fd07670dc7426fe109be9b3c3b239a4
